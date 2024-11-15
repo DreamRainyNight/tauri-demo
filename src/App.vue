@@ -15,6 +15,8 @@ async function greet() {
   <main class="container">
     <h1>Welcome to Tauri + Vue</h1>
 
+    <h2>dream demo tauri updater</h2>
+
     <div class="row">
       <a href="https://vitejs.dev" target="_blank">
         <img src="/vite.svg" class="logo vite" alt="Vite logo" />
