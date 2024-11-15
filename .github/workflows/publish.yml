@@ -3,10 +3,10 @@ name: "publish"
 on:
   push:
     branches:
-      - release
+      - master
 
 # This is the example from the readme.
-# On each push to the `release` branch it will create or update a GitHub release, build your app, and upload the artifacts to the release.
+# On each push to the `master` branch it will create or update a GitHub master, build your app, and upload the artifacts to the master.
 
 jobs:
   publish-tauri:
