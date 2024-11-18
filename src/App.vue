@@ -17,8 +17,6 @@ async function greet() {
 
     <h2>dream demo tauri updater</h2>
 
-    <h3>update PC APP Success!!!!!</h3>
-
     <div class="row">
       <a href="https://vitejs.dev" target="_blank">
         <img src="/vite.svg" class="logo vite" alt="Vite logo" />
